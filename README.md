@@ -14,7 +14,7 @@ Este projeto é uma API simples de votação desenvolvida com Node.js, Express e
 ### 1. Clonar o Repositório
 ```bash
 git clone https://github.com/seu-usuario/https://github.com/devluangabriel/sistema-de-vota-o-api
-cd seu-repositorio
+cd sistema-de-vota-o-api
 ```
 
 ### 2. Instalar Dependências
